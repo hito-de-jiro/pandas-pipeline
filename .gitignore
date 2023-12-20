@@ -1,0 +1,9 @@
+# PyCharm`s file
+.idea
+
+# Virtual environment
+venv
+
+# Project`s data files
+/input.csv
+/output.csv
