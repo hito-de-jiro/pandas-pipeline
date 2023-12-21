@@ -1,6 +1,6 @@
-Pandas pipeline
+Pandas pipeline.
 ===================
-Data processing with the Pandas library
+Data processing with the Pandas library.</br>
 Get raw CSV file and processing with Pandas.
 Used Faker and Pandas.
 ## Preparation
